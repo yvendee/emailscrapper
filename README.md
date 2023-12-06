@@ -214,3 +214,4 @@ cd Desktop\emailscrapper
 python3 main.py
 ```
 Remember to replace python with python3 if you are using Python 3, and make sure that Python is installed on your system and added to the system's PATH. Adjust the path in the cd command if there are additional subfolders within the emailscrapper directory.
+
