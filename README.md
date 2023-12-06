@@ -17,8 +17,8 @@ Using the Official Python Installer:
 Download the latest Python installer for Windows from the official Python website.
 Run the installer and make sure to check the box that says "Add Python to PATH" during installation.
 
-##Step2,Install python libraries
-##macOS:
+## Step2,Install python libraries
+### macOS:
 
 1. Open the terminal.
 
@@ -31,7 +31,7 @@ cd /path/to/your/project
 pip install -r requirements.txt
 ```
 
-##Windows:
+### Windows:
 1.) Open the command prompt or PowerShell.
 
 2.) Navigate to the directory containing your requirements.txt file using the cd command:
