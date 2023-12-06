@@ -175,3 +175,42 @@ google_browser_path=/path/to/bin/driver/chromedriver
 chrome_driver_path=/path/to/bin/google/Chrome/Application/chrome
 google_browser_path=/path/to/bin/driver/chromedriver
 ```
+
+## Step 4,Run the script
+
+Python script named main.py located in a folder named emailscrapper on the desktop.
+
+### macOS:
+```
+cd ~/Desktop/emailscrapper
+```
+```
+python main.py
+```
+or
+
+```
+cd ~/Desktop/emailscrapper
+```
+```
+python3 main.py
+```
+
+
+### Windows:
+```
+cd Desktop\emailscrapper
+```
+```
+python main.py
+```
+
+or
+
+```
+cd Desktop\emailscrapper
+```
+```
+python3 main.py
+```
+Remember to replace python with python3 if you are using Python 3, and make sure that Python is installed on your system and added to the system's PATH. Adjust the path in the cd command if there are additional subfolders within the emailscrapper directory.
