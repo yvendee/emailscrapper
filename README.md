@@ -1,6 +1,6 @@
 # emailscrapper
 
-##Step1, install python: Installing Python on macOS, Windows, and Linux involves slightly different steps. Here's a general guide for each operating system:
+## Step1, install python: Installing Python on macOS, Windows, and Linux involves slightly different steps. Here's a general guide for each operating system:
 
 ### macOS:
 Using Homebrew (recommended):
