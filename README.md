@@ -1,5 +1,7 @@
 # emailscrapper
 
+## IMPORTANT:
+  The versions of Google Chrome and Chrome Driver need to be compatible and match each other.
 ## Step 1, Installing and get the path of Google Chrome on Windows and macOS is straightforward. Here are the steps for each operating system:
 
 ### macOS:
