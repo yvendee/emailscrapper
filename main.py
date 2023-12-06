@@ -174,6 +174,7 @@ with open(file_path, 'r', encoding='utf-8') as file:
 
         # Extract the website data from the second column
         website_data = columns[1].strip('"')
+        site = ""
 
         if not (website_data == ""):
             # Print the status and website data
