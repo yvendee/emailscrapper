@@ -177,7 +177,7 @@ with open(file_path, 'r', encoding='utf-8') as file:
 
         if not (website_data == ""):
             # Print the status and website data
-            print(f"{current_line}/{total_lines} - Website:", website_data)
+            print(f"{current_line}/{total_lines} - Visiting Website:", website_data)
 
             site = website_data
             retry=0
